@@ -29,7 +29,7 @@ I think I'll use it to format all of my documents from now on.
 
 换行
 =====
-结尾空格(通过两个或多个空格进行换行)，或者结尾添加<br>
+结尾空格(通过两个或多个空格进行 + 回车换行)，或者结尾添加<br>
 
 **强调**
 ======
